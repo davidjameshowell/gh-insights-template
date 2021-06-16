@@ -1,25 +1,22 @@
-# 📈 GitHub Hit Counter Template
- 
-Follow the instructions given in [github-hit-counter](https://github.com/gayanvoice/github-hit-counter) repository page.  You can follow how this is deployed in [gayanvoice/insights](https://github.com/gayanvoice/insights).
+## [:chart_with_upwards_trend: GitHub Insights](https://github.com/gayanvoice/github-insights)
+**GitHub Insights** (https://github.com/gayanvoice/github-insights) is an opensource project that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
+It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository. It is created and maintained by gayanvoice (https://github.com/gayanvoice).
+| Repository | Last Updated | Unique | Views |
+ | ---------- | ------------ | ------ | ----- |
+|[vaultwarden_heroku](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/315185981/week.md)|2021-06-13T00:00:00.000Z|23|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/315185981/small/week.png" height="20"> 51|
+|[epicgames-freegames-heroku](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/322749314/week.md)|2021-06-13T00:00:00.000Z|25|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/322749314/small/week.png" height="20"> 44|
+|[djh-projects-lsio-docker-mods](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/226278419/week.md)|2021-06-13T06:07:42.612Z|1|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/226278419/small/week.png" height="20"> 1|
+|[showmethisip.com](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/325695534/week.md)|2021-06-13T06:08:11.772Z|0|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/325695534/small/week.png" height="20"> 0|
+|[commento-arm](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/377026737/week.md)|2021-06-13T06:08:51.418Z|0|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/377026737/small/week.png" height="20"> 0|
+|[XBackBone-docker-arm64](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/372081962/week.md)|2021-06-13T06:09:19.997Z|1|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/372081962/small/week.png" height="20"> 3|
 
-This action is written by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow me on [GitHub](https://github.com/gayanvoice), [Medium](https://medium.com/@gayanvoice) and [Twitter](https://twitter.com/gayanvoice).
+<small><i>Last updated on Wed Jun 16 2021 06:09:49 GMT+0000 (Coordinated Universal Time)</i></small>
 
-## Watch
-[![How to setup hit counter for your GitHub repositories](https://img.youtube.com/vi/LdYrV6VSfqY/0.jpg)](https://www.youtube.com/watch?v=LdYrV6VSfqY)
-
-## Setup
-
-### Step 1 - ⚡️ Create an repository from the template.
-
-### Step 2 - 🔒 Generate a *personal access token* with `repo` and `workflow` options.
-  
-### Step 3 - 🔑 Create the *repository secret* name `INSIGHTS_TOKEN` and paste *personal access token* in value.
-
-### Step 4 - 📄 Add list of repositories to `repository` in `config.json`.
-
-### Step 5 - 🟥 Run actions.
-
+[**Set up GitHub Insights for your repositories ↗️**](https://github.com/gayanvoice/github-insights)
+## ⛔ DO NOT
+- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
+- The app will automatically stop measuring insights until you revoke those commits.
 ## 📄 License
-- Repository: [gayanvoice/github-hit-counter](https://github.com/gayanvoice/github-hit-counter)
-- Template - [gayanvoice/github-hit-counter-template](https://github.com/gayanvoice/github-hit-counter-template)
-- Code: [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
+- Powered by: [GitHub Insights ↗️](https://github.com/gayanvoice/github-insights)
+- Code: [MIT ↗️](./LICENSE) © [gayanvoice ↗️](https://github.com/gayanvoice)
+- Data in the `./cache` directory: [Open Database License ↗️](https://opendatacommons.org/licenses/odbl/1-0/)
