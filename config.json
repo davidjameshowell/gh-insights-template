@@ -3,6 +3,11 @@
   "advancedMode": "true",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "vaultwarden_heroku",
+    "epicgames-freegames-heroku",
+    "djh-projects-lsio-docker-mods",
+    "showmethisip.com",
+    "commento-arm",
+    "XBackBone-docker-arm64",
   ]
 }
