@@ -1,13 +1,13 @@
 {
-  "devMode": "false",
-  "advancedMode": "true",
-  "language": "en-US",
-  "repository": [
-    "vaultwarden_heroku",
-    "epicgames-freegames-heroku",
-    "djh-projects-lsio-docker-mods",
-    "showmethisip.com",
-    "commento-arm",
-    "XBackBone-docker-arm64",
-  ]
+   "devMode":"false",
+   "advancedMode":"true",
+   "language":"en-US",
+   "repository":[
+      "vaultwarden_heroku",
+      "epicgames-freegames-heroku",
+      "djh-projects-lsio-docker-mods",
+      "showmethisip.com",
+      "commento-arm",
+      "XBackBone-docker-arm64"
+   ]
 }
