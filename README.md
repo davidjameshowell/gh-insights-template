@@ -3,14 +3,14 @@
 It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository. It is created and maintained by gayanvoice (https://github.com/gayanvoice).
 | Repository | Last Updated | Unique | Views |
  | ---------- | ------------ | ------ | ----- |
-|[vaultwarden_heroku](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/315185981/week.md)|2021-06-15T00:00:00.000Z|26|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/315185981/small/week.png" height="20"> 57|
-|[epicgames-freegames-heroku](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/322749314/week.md)|2021-06-15T06:07:12.348Z|26|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/322749314/small/week.png" height="20"> 48|
-|[djh-projects-lsio-docker-mods](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/226278419/week.md)|2021-06-15T06:07:42.612Z|1|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/226278419/small/week.png" height="20"> 1|
-|[showmethisip.com](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/325695534/week.md)|2021-06-15T06:08:11.772Z|0|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/325695534/small/week.png" height="20"> 0|
-|[commento-arm](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/377026737/week.md)|2021-06-15T06:08:51.418Z|0|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/377026737/small/week.png" height="20"> 0|
-|[XBackBone-docker-arm64](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/372081962/week.md)|2021-06-15T06:09:19.997Z|1|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/372081962/small/week.png" height="20"> 3|
+|[vaultwarden_heroku](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/315185981/week.md)|2021-06-16T06:06:34.017Z|26|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/315185981/small/week.png" height="20"> 57|
+|[epicgames-freegames-heroku](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/322749314/week.md)|2021-06-16T06:07:12.348Z|26|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/322749314/small/week.png" height="20"> 48|
+|[djh-projects-lsio-docker-mods](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/226278419/week.md)|2021-06-16T06:07:42.612Z|1|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/226278419/small/week.png" height="20"> 1|
+|[showmethisip.com](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/325695534/week.md)|2021-06-16T06:08:11.772Z|0|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/325695534/small/week.png" height="20"> 0|
+|[commento-arm](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/377026737/week.md)|2021-06-16T06:08:51.418Z|0|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/377026737/small/week.png" height="20"> 0|
+|[XBackBone-docker-arm64](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/372081962/week.md)|2021-06-16T06:09:19.997Z|1|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/372081962/small/week.png" height="20"> 3|
 
-<small><i>Last updated on Thu Jun 17 2021 18:29:26 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Fri Jun 18 2021 01:09:38 GMT+0000 (Coordinated Universal Time)</i></small>
 
 [**Set up GitHub Insights for your repositories ↗️**](https://github.com/gayanvoice/github-insights)
 ## ⛔ DO NOT
