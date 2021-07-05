@@ -9,7 +9,7 @@
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
  | `2021/7/1` |  `6` | `6` |
- | `2021/6/1` |  `22` | `50` |
+ | `2021/6/1` |  `21` | `44` |
  | `2021/5/1` |  `0` | `0` |
  | `2021/4/1` |  `0` | `0` |
  | `2021/3/1` |  `0` | `0` |
@@ -22,7 +22,7 @@
  | `2020/8/1` |  `0` | `0` |
  | `2020/7/1` |  `0` | `0` |
 
-<small><i>Last updated on Mon Jul 05 2021 06:27:14 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Mon Jul 05 2021 12:33:19 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
