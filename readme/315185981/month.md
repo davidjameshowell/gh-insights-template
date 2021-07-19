@@ -22,7 +22,7 @@
  | `2021/7/8` |  `2` | `2` |
  | `2021/7/7` |  `2` | `3` |
  | `2021/7/6` |  `1` | `1` |
- | `2021/7/5` |  `3` | `20` |
+ | `2021/7/5` |  `2` | `15` |
  | `2021/7/4` |  `1` | `3` |
  | `2021/7/3` |  `1` | `4` |
  | `2021/7/2` |  `1` | `2` |
@@ -40,7 +40,7 @@
  | `2021/6/20` |  `0` | `0` |
  | `2021/6/19` |  `2` | `5` |
 
-<small><i>Last updated on Mon Jul 19 2021 06:27:07 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Mon Jul 19 2021 12:33:35 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
