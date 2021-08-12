@@ -40,7 +40,7 @@
  | `2021/7/14` |  `0` | `0` |
  | `2021/7/13` |  `1` | `2` |
 
-<small><i>Last updated on Thu Aug 12 2021 01:05:11 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Thu Aug 12 2021 06:27:30 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
