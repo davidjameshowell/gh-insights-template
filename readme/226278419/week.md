@@ -8,6 +8,7 @@
 **:calendar: Week Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
+ | `2021/8/17` |  `0` | `0` |
  | `2021/8/16` |  `0` | `0` |
  | `2021/8/15` |  `0` | `0` |
  | `2021/8/14` |  `0` | `0` |
@@ -15,9 +16,8 @@
  | `2021/8/12` |  `0` | `0` |
  | `2021/8/11` |  `0` | `0` |
  | `2021/8/10` |  `0` | `0` |
- | `2021/8/9` |  `1` | `1` |
 
-<small><i>Last updated on Mon Aug 16 2021 18:27:03 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Tue Aug 17 2021 01:04:48 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
