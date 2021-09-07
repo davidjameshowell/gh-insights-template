@@ -22,7 +22,7 @@
  | `2020/10/1` |  `0` | `0` |
  | `2020/9/1` |  `0` | `0` |
 
-<small><i>Last updated on Mon Sep 06 2021 18:26:40 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Tue Sep 07 2021 01:06:48 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
