@@ -8,6 +8,7 @@
 **:calendar: Month Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
+ | `2021/9/22` |  `0` | `0` |
  | `2021/9/21` |  `0` | `0` |
  | `2021/9/20` |  `0` | `0` |
  | `2021/9/19` |  `0` | `0` |
@@ -38,9 +39,8 @@
  | `2021/8/25` |  `0` | `0` |
  | `2021/8/24` |  `0` | `0` |
  | `2021/8/23` |  `0` | `0` |
- | `2021/8/22` |  `0` | `0` |
 
-<small><i>Last updated on Tue Sep 21 2021 18:26:27 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Wed Sep 22 2021 01:12:22 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
