@@ -15,9 +15,9 @@
  | `2021/10/23` |  `2` | `9` |
  | `2021/10/22` |  `1` | `2` |
  | `2021/10/21` |  `1` | `3` |
- | `2021/10/20` |  `3` | `7` |
+ | `2021/10/20` |  `2` | `2` |
 
-<small><i>Last updated on Wed Oct 27 2021 12:34:23 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Wed Oct 27 2021 18:24:54 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
