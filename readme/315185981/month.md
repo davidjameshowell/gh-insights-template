@@ -8,7 +8,7 @@
 **:calendar: Month Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
- | `2021/11/14` |  `1` | `2` |
+ | `2021/11/14` |  `2` | `3` |
  | `2021/11/13` |  `0` | `0` |
  | `2021/11/12` |  `0` | `0` |
  | `2021/11/11` |  `1` | `1` |
@@ -40,7 +40,7 @@
  | `2021/10/16` |  `1` | `2` |
  | `2021/10/15` |  `1` | `2` |
 
-<small><i>Last updated on Sun Nov 14 2021 12:32:34 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Sun Nov 14 2021 18:24:21 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
