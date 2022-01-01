@@ -20,9 +20,8 @@
  | `2021/3/1` |  `0` | `0` |
  | `2021/2/1` |  `0` | `0` |
  | `2021/1/1` |  `0` | `0` |
- | `2020/12/1` |  `0` | `0` |
 
-<small><i>Last updated on Fri Dec 31 2021 18:28:15 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Sat Jan 01 2022 01:18:37 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
