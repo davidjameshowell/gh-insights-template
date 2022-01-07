@@ -40,7 +40,7 @@
  | `2021/12/9` |  `0` | `0` |
  | `2021/12/8` |  `1` | `2` |
 
-<small><i>Last updated on Fri Jan 07 2022 01:22:07 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Fri Jan 07 2022 06:28:30 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
