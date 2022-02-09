@@ -6,11 +6,8 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 |[vaultwarden_heroku](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/315185981/week.md)|2022-02-07T00:00:00.000Z|376|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/315185981/small/week.png" height="20"> 1214|
 |[epicgames-freegames-heroku](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/322749314/week.md)|2022-02-07T00:00:00.000Z|302|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/322749314/small/week.png" height="20"> 714|
 |[djh-projects-lsio-docker-mods](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/226278419/week.md)|2022-02-07T01:12:53.948Z|18|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/226278419/small/week.png" height="20"> 160|
-|[showmethisip.com](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/325695534/week.md)|2022-02-07T01:13:17.590Z|19|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/325695534/small/week.png" height="20"> 75|
-|[commento-arm](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/377026737/week.md)|2022-02-07T01:13:42.874Z|3|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/377026737/small/week.png" height="20"> 16|
-|[XBackBone-docker-arm64](https://github.com/davidjameshowell/gh-insights-template/tree/master/readme/372081962/week.md)|2022-02-07T01:14:07.243Z|6|<img alt="Response time graph" src="https://github.com/davidjameshowell/gh-insights-template/raw/master/graph/372081962/small/week.png" height="20"> 13|
 
-<small><i>Last updated on Wed Feb 09 2022 01:20:52 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Wed Feb 09 2022 06:27:32 GMT+0000 (Coordinated Universal Time)</i></small>
 
 [**Set up GitHub Insights for your repositories ↗️**](https://github.com/gayanvoice/github-insights)
 ## ⛔ DO NOT
