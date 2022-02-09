@@ -8,7 +8,7 @@
 **:calendar: Year Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
- | `2022/2/1` |  `15` | `42` |
+ | `2022/2/1` |  `17` | `44` |
  | `2022/1/1` |  `19` | `35` |
  | `2021/12/1` |  `25` | `48` |
  | `2021/11/1` |  `19` | `21` |
@@ -22,7 +22,7 @@
  | `2021/3/1` |  `0` | `0` |
  | `2021/2/1` |  `0` | `0` |
 
-<small><i>Last updated on Tue Feb 08 2022 18:22:48 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Wed Feb 09 2022 01:18:37 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
