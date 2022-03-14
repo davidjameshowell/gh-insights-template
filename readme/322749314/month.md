@@ -22,7 +22,7 @@
  | `2022/3/3` |  `2` | `3` |
  | `2022/3/2` |  `4` | `9` |
  | `2022/3/1` |  `2` | `6` |
- | `2022/2/28` |  `2` | `2` |
+ | `2022/2/28` |  `1` | `1` |
  | `2022/2/27` |  `1` | `1` |
  | `2022/2/26` |  `0` | `0` |
  | `2022/2/25` |  `1` | `1` |
@@ -40,7 +40,7 @@
  | `2022/2/13` |  `2` | `2` |
  | `2022/2/12` |  `0` | `0` |
 
-<small><i>Last updated on Mon Mar 14 2022 00:21:41 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Mon Mar 14 2022 06:06:36 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
