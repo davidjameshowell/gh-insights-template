@@ -8,16 +8,16 @@
 **:calendar: Week Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
- | `2022/4/18` |  `0` | `0` |
+ | `2022/4/19` |  `0` | `0` |
+ | `2022/4/18` |  `1` | `4` |
  | `2022/4/17` |  `0` | `0` |
  | `2022/4/16` |  `0` | `0` |
  | `2022/4/15` |  `1` | `5` |
  | `2022/4/14` |  `0` | `0` |
  | `2022/4/13` |  `1` | `2` |
  | `2022/4/12` |  `0` | `0` |
- | `2022/4/11` |  `0` | `0` |
 
-<small><i>Last updated on Mon Apr 18 2022 18:07:36 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Tue Apr 19 2022 00:19:55 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
