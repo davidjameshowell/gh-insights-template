@@ -9,7 +9,7 @@
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
  | `2022/5/1` |  `19` | `50` |
- | `2022/4/1` |  `43` | `69` |
+ | `2022/4/1` |  `42` | `68` |
  | `2022/3/1` |  `33` | `48` |
  | `2022/2/1` |  `29` | `47` |
  | `2022/1/1` |  `19` | `35` |
@@ -22,7 +22,7 @@
  | `2021/6/1` |  `20` | `43` |
  | `2021/5/1` |  `0` | `0` |
 
-<small><i>Last updated on Sat May 14 2022 00:27:55 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Sat May 14 2022 06:19:45 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
