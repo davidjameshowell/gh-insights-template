@@ -22,7 +22,7 @@
  | `2021/7/1` |  `33` | `118` |
  | `2021/6/1` |  `23` | `61` |
 
-<small><i>Last updated on Mon Jun 20 2022 18:06:04 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Tue Jun 21 2022 00:22:55 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
