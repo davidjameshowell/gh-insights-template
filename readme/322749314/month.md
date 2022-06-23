@@ -40,7 +40,7 @@
  | `2022/5/25` |  `1` | `1` |
  | `2022/5/24` |  `1` | `2` |
 
-<small><i>Last updated on Thu Jun 23 2022 00:20:28 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Thu Jun 23 2022 06:06:45 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
