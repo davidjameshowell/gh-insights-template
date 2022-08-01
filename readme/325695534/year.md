@@ -20,9 +20,8 @@
  | `2021/10/1` |  `2` | `4` |
  | `2021/9/1` |  `2` | `6` |
  | `2021/8/1` |  `3` | `22` |
- | `2021/7/1` |  `5` | `21` |
 
-<small><i>Last updated on Sun Jul 31 2022 18:07:19 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Mon Aug 01 2022 00:30:33 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
