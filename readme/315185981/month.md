@@ -8,7 +8,7 @@
 **:calendar: Month Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
- | `2022/8/4` |  `7` | `10` |
+ | `2022/8/4` |  `8` | `11` |
  | `2022/8/3` |  `6` | `8` |
  | `2022/8/2` |  `49` | `105` |
  | `2022/8/1` |  `1` | `2` |
@@ -40,7 +40,7 @@
  | `2022/7/6` |  `1` | `1` |
  | `2022/7/5` |  `3` | `13` |
 
-<small><i>Last updated on Thu Aug 04 2022 12:07:51 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Thu Aug 04 2022 18:06:08 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
