@@ -8,6 +8,7 @@
 **:calendar: Month Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
+ | `2023/2/19` |  `0` | `0` |
  | `2023/2/18` |  `0` | `0` |
  | `2023/2/17` |  `0` | `0` |
  | `2023/2/16` |  `1` | `1` |
@@ -38,9 +39,8 @@
  | `2023/1/22` |  `0` | `0` |
  | `2023/1/21` |  `0` | `0` |
  | `2023/1/20` |  `0` | `0` |
- | `2023/1/19` |  `0` | `0` |
 
-<small><i>Last updated on Sat Feb 18 2023 18:07:14 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Sun Feb 19 2023 00:26:13 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
