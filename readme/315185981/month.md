@@ -22,7 +22,7 @@
  | `2023/3/20` |  `1` | `2` |
  | `2023/3/19` |  `2` | `2` |
  | `2023/3/18` |  `2` | `2` |
- | `2023/3/17` |  `3` | `4` |
+ | `2023/3/17` |  `2` | `3` |
  | `2023/3/16` |  `1` | `1` |
  | `2023/3/15` |  `1` | `1` |
  | `2023/3/14` |  `1` | `1` |
@@ -40,7 +40,7 @@
  | `2023/3/2` |  `1` | `1` |
  | `2023/3/1` |  `1` | `1` |
 
-<small><i>Last updated on Fri Mar 31 2023 06:06:43 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Fri Mar 31 2023 12:07:46 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
