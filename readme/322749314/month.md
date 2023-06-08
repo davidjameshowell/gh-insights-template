@@ -40,7 +40,7 @@
  | `2023/5/10` |  `1` | `1` |
  | `2023/5/9` |  `1` | `1` |
 
-<small><i>Last updated on Thu Jun 08 2023 12:08:10 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Thu Jun 08 2023 18:06:49 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
