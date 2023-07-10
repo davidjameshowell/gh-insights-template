@@ -8,7 +8,8 @@
 **:calendar: Month Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
- | `2023/7/9` |  `0` | `0` |
+ | `2023/7/10` |  `0` | `0` |
+ | `2023/7/9` |  `1` | `1` |
  | `2023/7/8` |  `1` | `1` |
  | `2023/7/7` |  `2` | `12` |
  | `2023/7/6` |  `1` | `1` |
@@ -38,9 +39,8 @@
  | `2023/6/12` |  `2` | `2` |
  | `2023/6/11` |  `0` | `0` |
  | `2023/6/10` |  `1` | `1` |
- | `2023/6/9` |  `1` | `1` |
 
-<small><i>Last updated on Sun Jul 09 2023 18:06:18 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Mon Jul 10 2023 00:28:28 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
