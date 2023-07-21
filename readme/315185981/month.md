@@ -22,7 +22,7 @@
  | `2023/7/10` |  `0` | `0` |
  | `2023/7/9` |  `1` | `1` |
  | `2023/7/8` |  `1` | `1` |
- | `2023/7/7` |  `2` | `12` |
+ | `2023/7/7` |  `1` | `1` |
  | `2023/7/6` |  `1` | `1` |
  | `2023/7/5` |  `1` | `6` |
  | `2023/7/4` |  `1` | `1` |
@@ -40,7 +40,7 @@
  | `2023/6/22` |  `0` | `0` |
  | `2023/6/21` |  `0` | `0` |
 
-<small><i>Last updated on Fri Jul 21 2023 12:07:28 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Fri Jul 21 2023 18:06:56 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
