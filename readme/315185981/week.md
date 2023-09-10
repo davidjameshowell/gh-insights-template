@@ -8,16 +8,16 @@
 **:calendar: Week Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
- | `2023/9/9` |  `1` | `4` |
+ | `2023/9/10` |  `0` | `0` |
+ | `2023/9/9` |  `2` | `5` |
  | `2023/9/8` |  `0` | `0` |
  | `2023/9/7` |  `0` | `0` |
  | `2023/9/6` |  `1` | `3` |
  | `2023/9/5` |  `0` | `0` |
  | `2023/9/4` |  `1` | `1` |
  | `2023/9/3` |  `0` | `0` |
- | `2023/9/2` |  `0` | `0` |
 
-<small><i>Last updated on Sat Sep 09 2023 18:05:50 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Sun Sep 10 2023 00:22:02 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
