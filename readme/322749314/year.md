@@ -20,9 +20,8 @@
  | `2023/1/1` |  `18` | `33` |
  | `2022/12/1` |  `31` | `60` |
  | `2022/11/1` |  `20` | `44` |
- | `2022/10/1` |  `16` | `35` |
 
-<small><i>Last updated on Tue Oct 31 2023 18:06:48 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Wed Nov 01 2023 00:23:07 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
