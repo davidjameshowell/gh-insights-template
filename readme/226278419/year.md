@@ -20,9 +20,8 @@
  | `2023/2/1` |  `0` | `0` |
  | `2023/1/1` |  `0` | `0` |
  | `2022/12/1` |  `1` | `1` |
- | `2022/11/1` |  `1` | `1` |
 
-<small><i>Last updated on Thu Nov 30 2023 18:07:05 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Fri Dec 01 2023 00:25:25 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
