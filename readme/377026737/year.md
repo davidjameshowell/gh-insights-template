@@ -20,9 +20,8 @@
  | `2023/4/1` |  `0` | `0` |
  | `2023/3/1` |  `0` | `0` |
  | `2023/2/1` |  `0` | `0` |
- | `2023/1/1` |  `0` | `0` |
 
-<small><i>Last updated on Wed Jan 31 2024 18:07:07 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Thu Feb 01 2024 00:24:10 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
