@@ -8,6 +8,7 @@
 **:calendar: Week Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
+ | `2024/2/4` |  `0` | `0` |
  | `2024/2/3` |  `0` | `0` |
  | `2024/2/2` |  `0` | `0` |
  | `2024/2/1` |  `0` | `0` |
@@ -15,9 +16,8 @@
  | `2024/1/30` |  `0` | `0` |
  | `2024/1/29` |  `1` | `1` |
  | `2024/1/28` |  `0` | `0` |
- | `2024/1/27` |  `0` | `0` |
 
-<small><i>Last updated on Sat Feb 03 2024 18:06:30 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Sun Feb 04 2024 00:24:12 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
