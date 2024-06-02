@@ -8,6 +8,7 @@
 **:calendar: Year Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
+ | `2024/6/1` |  `0` | `0` |
  | `2024/5/1` |  `9` | `10` |
  | `2024/4/1` |  `12` | `19` |
  | `2024/3/1` |  `12` | `15` |
@@ -21,7 +22,7 @@
  | `2023/7/1` |  `10` | `25` |
  | `2023/6/1` |  `27` | `30` |
 
-<small><i>Last updated on Sat Jun 01 2024 18:06:56 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Sun Jun 02 2024 00:25:57 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
