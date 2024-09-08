@@ -8,7 +8,7 @@
 **:calendar: Year Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
- | `2024/9/1` |  `5` | `6` |
+ | `2024/9/1` |  `6` | `7` |
  | `2024/8/1` |  `16` | `36` |
  | `2024/7/1` |  `15` | `58` |
  | `2024/6/1` |  `17` | `56` |
@@ -22,7 +22,7 @@
  | `2023/10/1` |  `13` | `24` |
  | `2023/9/1` |  `15` | `40` |
 
-<small><i>Last updated on Sun Sep 08 2024 12:08:58 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Sun Sep 08 2024 18:06:52 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
